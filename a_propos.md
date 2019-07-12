@@ -1,5 +1,6 @@
 ---
 title: A propos
+layout: page-1
 
 ---
 # Titre 1
